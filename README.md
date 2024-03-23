@@ -1,4 +1,9 @@
 # Data portal
+## simple version of frontend data portal 
+basic nav- 
+CTRL + F to dim screen at search / ESC to close
+-- no search function yet
+-- cards not yet finished
 
 ![dataportal_main](https://github.com/idant1111/DataPortal/assets/3217869/70de1498-8891-4c9e-bc43-dc37703018c3)
 
