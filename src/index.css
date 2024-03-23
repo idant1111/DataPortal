@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    @font-face {
+        font-family: 'Heebo';
+        src: url('/src/assets/fonts/heebo.ttf') format('truetype');
+    }
+
+    body {
+        background-color: #FFFBEF;
+        font-family: 'Heebo', sans-serif;
+    }
+}
+
+body{
+    background-color: #FFFBEF;
+}

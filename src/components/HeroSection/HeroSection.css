@@ -1,0 +1,35 @@
+.rocket-img{
+    justify-content: center;
+    display: align-items;
+    align-items: center;
+    position: flex;
+    margin-left: 50vw;
+    margin-top: 6vh;
+    z-index: -2;
+}
+
+.HeroSection{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    z-index: -2;
+    }
+
+
+
+.Cubes1{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: -2;
+}
+    
+.People1{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: -2;
+}
+    

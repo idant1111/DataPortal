@@ -1,0 +1,11 @@
+.person2{
+    height:0;
+    left: 0;
+}
+
+.cubes2{
+    position: fixed;
+    height:0;
+    right: 0;
+    padding-right: 0.1em;
+}
